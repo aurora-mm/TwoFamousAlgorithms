@@ -7,7 +7,7 @@
 dijkstra(graph, init_node)
 }
 \arguments{
-\item{graph}{A data.frame with three variables (v1, v2 and w) that contains 
+\item{graph}{A data.frame with three variables (v1, v2 and w) that contains
 the edges of the graph (from v1 to v2) with the weight of the edge (w).}
 
 \item{init_node}{A numeric scalar that exist in the graph.}
@@ -20,6 +20,6 @@ The algorithm takes a graph and an initial node and calculates the shortest
 path from the initial node to every other node in the graph.
 }
 \details{
-A decription with pseudocode can be found at the wikipedia page here: 
-https://en.wikipedia.org/wiki/Dijkstra%27salgorithm.
+A decription with pseudocode can be found at the wikipedia page here:
+https://en.wikipedia.org/wiki/Dijkstra\%27salgorithm.
 }

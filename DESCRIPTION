@@ -7,7 +7,7 @@ Description: This package includes implementations of two famous algorithms:
     integers and Dijkstra algorithm for finding the shortest path in a graph.
 RoxygenNote: 7.3.2
 Encoding: UTF-8
-License: `use_mit_license()`
+License: GPL-2
 Authors@R: c(
     person("Linn", "F.", email = "linfr259@student.liu.se", role = "cre"),
     person("John", "Moeller", email = "johmo@student.liu.se", role = "aut"))
