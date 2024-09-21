@@ -6,7 +6,7 @@ Date: 2024-09-21
 Description: This package includes implementations of two famous algorithms: the Euclidean algorithm for finding the greatest common divisor of two integers and Dijkstra algorithm for finding the shortest path in a graph.
 RoxygenNote: 7.3.2
 Encoding: UTF-8
-License: GPL (>= 2)
+License: GPL
 Authors@R: c(
     person("Linn", "F.", email = "linfr259@student.liu.se", role = "cre"),
     person("John", "Moeller", email = "johmo@student.liu.se", role = "aut"))
