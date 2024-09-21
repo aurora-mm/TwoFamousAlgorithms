@@ -14,3 +14,6 @@ Authors@R: c(
 Maintainer: Linn F. <linfr259@student.liu.se>
 Roxygen: list(markdown = TRUE)
 LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
