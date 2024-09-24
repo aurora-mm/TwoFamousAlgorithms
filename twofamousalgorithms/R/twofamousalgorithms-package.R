@@ -11,5 +11,8 @@
 #' The algorithm takes a graph and an initial node and calculates the shortest
 #' path from the initial node to every other node in the graph.
 #'
+#' @section euclidean:
+#' Takes two numeric scalars and applies the euclidean algorithm to them. In the case
+#' of two integers the greatest common divisor is yielded.
 
 
