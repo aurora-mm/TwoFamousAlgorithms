@@ -1,16 +1,18 @@
 Package: twofamousalgorithms
 Title: Implementations of the Euclidean algorithm and Dijkstra's algorithm
-Version: 0.1
+Version: 1.0
 Date: 2024-09-21
-Description: This package includes implementations of two famous algorithms: 
-    the Euclidean algorithm for finding the greatest common divisor of two 
-    integers and Dijkstra algorithm for finding the shortest path in a graph.
+Description: This R package features implementations of the Euclidean algorithm, 
+    which calculates the greatest common divisor of two integers, and Dijkstra's 
+    algorithm, used for finding the shortest path in a graph. This package is a 
+    part of the coursework for the Advanced Programming in R course (732A94) at 
+    Linköping University.
 RoxygenNote: 7.3.2
 Encoding: UTF-8
 License: GPL-2
 Authors@R: c(
-    person("Linn", "F.", email = "linfr259@student.liu.se", role = "cre"),
-    person("John", "Moeller", email = "johmo@student.liu.se", role = "aut"))
+    person("Linn", "Frisell", email = "linfr259@student.liu.se", role = "cre"),
+    person("John", "Möller", email = "johmo@student.liu.se", role = "aut"))
 Maintainer: Linn F. <linfr259@student.liu.se>
 Roxygen: list(markdown = TRUE)
 LazyData: true
