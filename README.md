@@ -4,7 +4,7 @@
 
 # Overview
 
-This [R](https://www.r-project.org) package features implementations of [the Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm), which calculates the greatest common divisor of two integers, and [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm), used for finding the shortest path in a graph. These implementations are part of the coursework for the Advanced Programming in R course (732A94) at Linköping University.
+This [R](https://www.r-project.org) package features implementations of [the Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm), which calculates the greatest common divisor of two integers, and [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm), used for finding the shortest path in a graph. This package is a part of the coursework for the Advanced Programming in R course (732A94) at Linköping University.
 
 # Installation
 
