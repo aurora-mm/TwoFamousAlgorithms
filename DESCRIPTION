@@ -11,9 +11,9 @@ RoxygenNote: 7.3.2
 Encoding: UTF-8
 License: GPL-2
 Authors@R: c(
-    person("Linn", "Frisell", email = "linfr259@student.liu.se", role = "cre"),
+    person("Linn", "Friberg", email = "linn.friberg@pm.me", role = "cre"),
     person("John", "Möller", email = "johmo@student.liu.se", role = "aut"))
-Maintainer: Linn F. <linfr259@student.liu.se>
+Maintainer: Linn Friberg <linn.friberg@pm.me>
 Roxygen: list(markdown = TRUE)
 LazyData: true
 Suggests: 
