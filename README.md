@@ -8,7 +8,7 @@ This [R](https://www.r-project.org) package features implementations of [the Euc
 
 # Installation
 
-To install this R package, you can utilize the `devtools` package, which facilitates the installation of packages hosted on GitHub repositories. First, ensure you have this package installed by executing `install.packages("devtools")`. Then, use the function `devtools::install_github("aurora-mm/TwoFamousAlgorithms")`. This command will clone the repository and install the package directly into your R environment, making it readily available for use.
+To install this R package, first install `devtools` with `install.packages("devtools")`. Then, run `devtools::install_github("aurora-mm/TwoFamousAlgorithms")` to install the package from GitHub.
 
 # Authors
 
